@@ -76,3 +76,7 @@ python app.py
 - Check internet connection for AI processing
 
 
+This is the video Link attached for my AI submission
+
+https://drive.google.com/file/d/1A8i8pF5Vwgss7yCCoIZJl6HJ30ALQkOx/view?usp=sharing
+
