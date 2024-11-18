@@ -1,7 +1,5 @@
 # Breakout_LLM_assesement
 
-# AI-Powered Data Analysis App
-
 ## Project Overview
 This Flask-based web application enables intelligent data filtering using natural language prompts. By leveraging AI (Groq API), users can easily analyze CSV files through intuitive, conversational filtering.
 
